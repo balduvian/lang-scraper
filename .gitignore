@@ -1,0 +1,6 @@
+auth.json
+data.json
+token.json
+ledger.txt
+*.js
+/node_modules
